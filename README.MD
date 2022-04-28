@@ -98,4 +98,4 @@ PROJECT DETAILS FOR HEART DISEASE DATASET
     - Difficulty walking or climbing stairs is an indicator of at risk for heart disease
     - Being diabetic increases your risk for heart disease
     - Smoking cigarettes increases your risk for heart disease
-    - 
+    - Reported Physical Health can be a risk factor
